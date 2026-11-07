@@ -34,9 +34,9 @@ export default function HeroSection({
             </a>
           </div>
         </div>
-        <div className="mx-auto w-full max-w-[400px] lg:mx-0">
+        <div className="mx-auto w-full max-w-[450] lg:mx-0">
           <img
-            src="/src/assets/bit.gif"
+            src="new.png"
             alt="Chatbot tools and conversational interface for financial services"
             loading="lazy"
             className="w-full rounded-2xl border border-white object-cover"
